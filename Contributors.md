@@ -32,8 +32,8 @@ ROHAN KUMAR PANDEY
 [Adnan Shah Muzavor]
 SparkBuster
 [Diksha Nasa] (https://github.com/dikshanasa)
-[Ayan Gupta] (https://github.com/Ayan-thecodeking)
 [Harmeet Singh] (https://github.com/harmeetsinghmittu)
+[Ayan Gupta] (https://github.com/Ayan-thecodeking)
 [Ankit Yadav](https://github.com/ankitcr7-afk)
  - [Fabricio Pashaj](https://github.com/fabriciopashaj)
 [Adam McCartney](https://github.com/adammccartney)
